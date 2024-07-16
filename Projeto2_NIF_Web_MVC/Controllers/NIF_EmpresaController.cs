@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Projeto2_NIF_Web_MVC;
 using Projeto2_NIF_Web_MVC.Models;
 
 namespace Projeto2_NIF_Web_MVC.Controllers
