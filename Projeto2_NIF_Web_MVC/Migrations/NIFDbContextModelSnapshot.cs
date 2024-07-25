@@ -78,7 +78,7 @@ namespace Projeto2_NIF_Web_MVC.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("NIF_Empresa");
+                    b.ToTable("NIF_Empresa", (string)null);
                 });
 #pragma warning restore 612, 618
         }
